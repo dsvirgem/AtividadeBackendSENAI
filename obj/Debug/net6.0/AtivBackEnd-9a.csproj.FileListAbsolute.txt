@@ -1,0 +1,15 @@
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\bin\Debug\net6.0\AtivBackEnd-9a.exe
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\bin\Debug\net6.0\AtivBackEnd-9a.deps.json
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\bin\Debug\net6.0\AtivBackEnd-9a.runtimeconfig.json
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\bin\Debug\net6.0\AtivBackEnd-9a.dll
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\bin\Debug\net6.0\AtivBackEnd-9a.pdb
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.csproj.AssemblyReference.cache
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.AssemblyInfoInputs.cache
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.AssemblyInfo.cs
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.dll
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\refint\AtivBackEnd-9a.dll
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.pdb
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\AtivBackEnd-9a.genruntimeconfig.cache
+C:\Users\Usuário\3D Objects\_SENAIeadCodBackend\AtivBackEnd-9a\obj\Debug\net6.0\ref\AtivBackEnd-9a.dll
